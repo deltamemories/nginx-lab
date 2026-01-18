@@ -18,9 +18,9 @@ Result on `127.0.0.1:8080`
 
 3. ### Open 127.0.0.1 in browser
     #### Project description:
-    docker-compose.yml — Nginx server
-    code/index.html — main HTML page
-    screenshots/ — all screenshots
+    docker-compose.yml — Nginx server  
+    code/index.html — main HTML page  
+    screenshots/ — all screenshots  
 4. ### Screenshots
     ![](./screenshots/1.png)
     ![](./screenshots/2.png)
