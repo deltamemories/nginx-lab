@@ -3,7 +3,7 @@
 ## Task description
 
 Create web server in Docker with Nginx and mount HTML page.
-Result on `127.0.0.1:8080`
+Result on `127.0.0.1:8080` (**upd:** now on 5050 port)
 
 ## Installation
 
@@ -27,3 +27,6 @@ Result on `127.0.0.1:8080`
     ![](./screenshots/1.png)
     ![](./screenshots/2.png)
     ![](./screenshots/3.png)
+    ![](./screenshots/4.png)
+    ![](./screenshots/5.png)
+    ![](./screenshots/6.png)
