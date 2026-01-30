@@ -19,14 +19,16 @@ Result on `127.0.0.1:8080` (**upd:** now on 5050 port)
     ```
 
 3. ### Open `127.0.0.1` in browser
-    #### Project description:
-    docker-compose.yml — Nginx server  
-    code/index.html — main HTML page  
-    screenshots/ — all screenshots  
-4. ### Screenshots
-    ![](./screenshots/1.png)
-    ![](./screenshots/2.png)
-    ![](./screenshots/3.png)
-    ![](./screenshots/4.png)
-    ![](./screenshots/5.png)
-    ![](./screenshots/6.png)
+
+## Project description:
+docker-compose.yml — Nginx server  
+code/index.html — main HTML page  
+screenshots/ — all screenshots  
+
+## Screenshots
+![](./screenshots/1.png)
+![](./screenshots/2.png)
+![](./screenshots/3.png)
+![](./screenshots/4.png)
+![](./screenshots/5.png)
+![](./screenshots/6.png)
