@@ -1,0 +1,54 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Geologica, serif;
+    font-size: 10px;
+    margin: 0;
+    ::selection {background: #fff; color: #000;}
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+a {
+    font-size: 1.6rem;
+    color: #fff;
+    text-decoration: none;
+}
+
+#top-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#about-link {
+    transition: color 0.4s ease-in-out;
+}
+
+#about-link:hover {
+    color: coral;
+}
+
+
+#videos {
+    display: flex;
+    padding: 10vw;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+video {
+    max-height: 20vh;
+    max-width: 20vw;
+    aspect-ratio: 1;
+    transition: all 0.1s ease-in-out;
+}
+
+video:hover {
+    transform: scale(1.3);
+}
