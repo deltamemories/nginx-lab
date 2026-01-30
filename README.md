@@ -22,7 +22,10 @@ Result on `127.0.0.1:8080` (**upd:** now on 5050 port)
 
 ## Project description:
 docker-compose.yml — Nginx server  
-code/index.html — main HTML page  
+src/code/index.html — main HTML page  
+src/code/about.html — about HTML page  
+src/code/stylesheet.css — styles for HTML pages  
+src/assets/videos/ — GIFs  
 screenshots/ — all screenshots  
 
 ## Screenshots
