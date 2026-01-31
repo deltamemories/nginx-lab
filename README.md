@@ -18,7 +18,7 @@ Result on `127.0.0.1:8080` (**upd:** now on 5050 port)
     docker-compose up -d --build
     ```
 
-3. ### Open `127.0.0.1` in browser
+3. ### Open `127.0.0.1:5050` in browser
 
 ## Project description:
 docker-compose.yml — Nginx server  
