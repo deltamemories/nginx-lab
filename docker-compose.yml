@@ -6,4 +6,5 @@ services:
     ports:
       - "5050:80"
     volumes:
-      - ./src:/usr/share/nginx/html
+      - ./src/code:/usr/share/nginx/html
+      - ./src/assets:/usr/share/nginx/html/assets
